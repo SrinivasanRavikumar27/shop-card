@@ -1,0 +1,23 @@
+h2{
+    padding: 10px;
+}
+
+table td{
+    padding-left: 50px;
+}
+
+img {
+    height: 50px;
+    width: 100px;
+}
+
+button{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.cart-summary{
+    margin-top: 10px;
+    margin-left: 500px;
+    font-size: large;
+}
